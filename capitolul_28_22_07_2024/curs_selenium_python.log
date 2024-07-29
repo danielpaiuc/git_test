@@ -1,0 +1,4 @@
+2024-07-22 19:47:33,935 - INFO - Acesta este un mesaj de informare
+2024-07-22 19:47:33,935 - WARNING - Acesta este un mesaj de atentionare
+2024-07-22 19:47:33,935 - ERROR - Acesta este un mesaj de eroare
+2024-07-22 19:47:33,935 - CRITICAL - Mesaj CRITICAL
